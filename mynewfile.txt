@@ -1,0 +1,2 @@
+This is a new file I have created
+This file contains only two lines of text
